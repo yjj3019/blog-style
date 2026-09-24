@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "yjj3019-blog-style",
+  "version": "1.1.0",
+  "description": "A privacy-first Korean blog writing skill for conversational, firsthand-use posts.",
+  "repository": "https://github.com/yjj3019/blog-style.git",
+  "keywords": ["Korean", "blog-writing", "privacy", "Agent Skills"]
+}
