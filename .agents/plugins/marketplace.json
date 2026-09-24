@@ -1,0 +1,19 @@
+{
+  "name": "blog-style",
+  "interface": {
+    "displayName": "한국어 블로그 글쓰기"
+  },
+  "plugins": [
+    {
+      "name": "yjj3019-blog-style",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "interface": {
+        "displayName": "한국어 블로그 글쓰기",
+        "shortDescription": "개인정보를 제외하고 자연스러운 한국어 블로그 포스팅을 작성합니다."
+      }
+    }
+  ]
+}
